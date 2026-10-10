@@ -6,7 +6,7 @@ AWS を中心に、**設計・構築・IaC・CI/CD・運用自動化**を手を�
 - 🏢 インフラ実務 約3年（うち AWS 実務 約2年）/ 官公庁向け AWS 環境の運用・構築・設計改善
 - 🛠️ 運用のレガシーな手作業を SSM Automation・EventBridge・Lambda で自動化し、工数とヒューマンエラーを削減
 - 🧩 個人開発で Terraform（クロスアカウント / リモートステート）・OIDC シークレットレス CI/CD・サーバーレス構成を設計・実装・公開
-- ▪ 技術メディア [DIVE](https://dive.okada-chikuro-kougyousyo.com) を個人で設計・構築・運用（0と1の物理から AI までを繋ぐ技術解説）
+- 📖 技術メディア [DIVE](https://dive.okada-chikuro-kougyousyo.com) を個人で設計・構築・運用（0と1の物理から AI までを繋ぐ技術解説）
 - 🎯 次の目標：クラウド導入支援の設計・構築フェーズ、ゆくゆくは SRE / クラウドアーキテクト
 
 ---
